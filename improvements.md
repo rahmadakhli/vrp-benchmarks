@@ -1,3 +1,43 @@
+
+## 2023-06-10 (3 new)
+### Li&Lim (3 new)
+
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc1_2_1.20_2704.5678.txt LiLim lc1_2_1 BKS 20 2704.5678
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc1_2_2.19_2764.5552.txt LiLim lc1_2_2 BKS 19 2764.5552
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-06-27/lc1_2_4.17_2693.4088.txt LiLim lc1_2_4 BKS 17 2693.4088
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc1_2_5.20_2702.0488.txt LiLim lc1_2_5 BKS 20 2702.0488
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc1_2_6.20_2701.0354.txt LiLim lc1_2_6 BKS 20 2701.0354
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc1_2_7.20_2701.0354.txt LiLim lc1_2_7 BKS 20 2701.0354
+/content/vrp-benchmarks/best_known_solutions/LiLim/2018-04-18/lc1_2_8.19_3354.2726.txt LiLim lc1_2_8 BKS 19 3354.2726
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc1_2_9.18_2724.2353.txt LiLim lc1_2_9 BKS 18 2724.2353
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-04-15/lc2_2_3.6_1844.3281.txt LiLim lc2_2_3 BKS 6 1844.3281
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc2_2_5.6_1891.209.txt LiLim lc2_2_5 BKS 6 1891.2090
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-12-10/lc2_2_7.6_1850.1343.txt LiLim lc2_2_7 BKS 6 1850.1343
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-09-01/lc2_2_9.6_1854.2104.txt LiLim lc2_2_9 BKS 6 1854.2104
+/content/vrp-benchmarks/best_known_solutions/LiLim/2001-01-01/lc2_2_10.6_1817.4533.txt LiLim lc2_2_10 BKS 6 1817.4533
+/content/vrp-benchmarks/best_known_solutions/LiLim/2016-02-27/lr1_2_3.14_4402.3848.txt LiLim lr1_2_3 BKS 14 4402.3848
+/content/vrp-benchmarks/best_known_solutions/LiLim/2018-04-18/lr1_2_4.10_3027.062.txt LiLim lr1_2_4 BKS 10 3027.0620
+/content/vrp-benchmarks/best_known_solutions/LiLim/2016-01-16/lr1_2_9.13_5050.7548.txt LiLim lr1_2_9 BKS 13 5050.7548
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-12-09/lr2_2_1.5_4073.098.txt LiLim lr2_2_1 BKS 5 4073.0980
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-02-14/lr2_2_2.4_3795.9965.txt LiLim lr2_2_2 BKS 4 3795.9965
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-07-08/lr2_2_3.4_3098.3585.txt LiLim lr2_2_3 BKS 4 3098.3585
+/content/vrp-benchmarks/best_known_solutions/LiLim/2016-07-13/lr2_2_4.3_2486.0024.txt LiLim lr2_2_4 BKS 3 2486.0024
+/content/vrp-benchmarks/best_known_solutions/LiLim/2019-11-06/lr2_2_8.2_2449.3617.txt LiLim lr2_2_8 BKS 2 2449.3617
+/content/vrp-benchmarks/best_known_solutions/LiLim/2018-04-18/lr2_2_9.3_3922.1105.txt LiLim lr2_2_9 BKS 3 3922.1105
+/content/vrp-benchmarks/best_known_solutions/LiLim/2018-04-18/lr2_2_10.3_3254.8263.txt LiLim lr2_2_10 BKS 3 3254.8263
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-11-19/lrc1_2_2.15_3671.0239.txt LiLim lrc1_2_2 BKS 15 3671.0239
+/content/vrp-benchmarks/best_known_solutions/LiLim/2016-02-27/lrc1_2_3.13_3154.9222.txt LiLim lrc1_2_3 BKS 13 3154.9222
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-11-19/lrc1_2_6.16_3572.1589.txt LiLim lrc1_2_6 BKS 16 3572.1589
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-04-13/lrc1_2_7.14_3666.3394.txt LiLim lrc1_2_7 BKS 14 3666.3394
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-11-19/lrc1_2_9.13_3157.3388.txt LiLim lrc1_2_9 BKS 13 3157.3388
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-11-19/lrc1_2_10.12_2928.9036.txt LiLim lrc1_2_10 BKS 12 2928.9036
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-04-14/lrc2_2_1.6_3595.1783.txt LiLim lrc2_2_1 BKS 6 3595.1783
+/content/vrp-benchmarks/best_known_solutions/LiLim/2003-06-27/lrc2_2_5.5_2776.9262.txt LiLim lrc2_2_5 BKS 5 2776.9262
+/content/vrp-benchmarks/best_known_solutions/LiLim/2015-11-17/lrc2_2_8.4_2399.8904.txt LiLim lrc2_2_8 BKS 4 2399.8904
+/content/vrp-benchmarks/best_known_solutions/LiLim/2016-07-13/lrc2_2_10.3_2437.8805.txt LiLim lrc2_2_10 BKS 3 2437.8805
+
+
+
 ## 2023-03-08 (3 new)
 ### Li&Lim (3 new)
 #### NVIDIA (3 new):
