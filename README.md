@@ -2,7 +2,7 @@
 A solution checker for CVRPTW (Gehring-Homberger) and PDP (Li-Lim) solutions in Sintef format, plus a clone of best known solutions from https://www.sintef.no/projectweb/top/, and an automated table generator for them.
 
 # Benchmarks
-Last updated: [2023-03-08](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/improvements.md#2023-03-08-3-new)
+Last updated: [2023-06-10](https://github.com/rahmadakhli/vrp-benchmarks/blob/master/improvements.md)
 
 ## [full csv](https://github.com/rogalski-wmii-uni-lodz-pl/vrp-benchmarks/blob/master/tables.csv)
 
